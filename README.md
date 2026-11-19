@@ -2,6 +2,8 @@
 
 A retro arcade tank game that runs in the browser — a small homage to Namco's **Battle City** (1985), built from scratch with vanilla HTML, CSS and Canvas 2D. No frameworks, no build step, no image assets.
 
+**[▶ Play it online](https://yoyo33hi.github.io/tank-battle/)** — no installation needed.
+
 ![Tank Battle](screenshot.png)
 
 ## Play
