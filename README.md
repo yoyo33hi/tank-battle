@@ -13,7 +13,7 @@ Open `index.html` in any modern browser — that's it.
 For a local server:
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/yoyo33hi/tank-battle.git
 cd tank-battle
 python3 -m http.server 8080
 # then open http://localhost:8080
